@@ -121,15 +121,5 @@
         </div>
     </div>
     </section>
-    <!--Contact Section -->
-    <section id="Contact" class="py-5 bg-light">
-        <div class="contain text-center">
-            <h2 class="mb4">Contact Me</h2>
-            <p>Email: <a href="mailto:saabiqabdulmalik0@gmail.com">saabiqabdulmalik0@gmail.com</a></p>
-            <p>Phone:+233531819584</p>
-                
-            </p>
-        </div>
-    </section>
 </body>
-</html>
+</html>s
